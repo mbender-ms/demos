@@ -31,4 +31,4 @@ Monday April 24th, 2023 @ 4:15pm (45 minutes)
     1. Azure Cloud Shell in MS App
         1. Basic Task
         2. ChatGPT Demo
-    1. 
+    1. Azure Cloud Shell in an Azure Virtual Network 
