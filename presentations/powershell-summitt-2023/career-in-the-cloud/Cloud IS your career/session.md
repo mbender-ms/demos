@@ -2,7 +2,7 @@
 
 ## Description
 
-Cloud IS the buzz word of the day, everyday it seems. Many of us are tired of it, but we know it is the next evolution for all organizations. Whether your company is there or not. your career depends on you being successful in the cloud,  In this session, you'll learn the skills you need, in the time you have, and how to level up for the next opportunity. Life long learning is the key. You'll still have to do the hard work, but I'll help you with the tools you need to make the change happen.
+Cloud IS the buzz word of the day, everyday it seems. Many of us are tired of it, but we know it is the next evolution for all organizations. Whether your company is there or not. your career depends on you being successful in the cloud,  In this session, you'll learn the skills you need, in the time you have, and how to level up for the next opportunity. Life long learning is the key. You'll still have to do the hard work, but I'll help you with the tools you need to make the change happen. 
 
 ## Notes
 
