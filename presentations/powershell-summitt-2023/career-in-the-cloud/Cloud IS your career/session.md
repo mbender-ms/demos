@@ -19,7 +19,8 @@ Soft skills talk are hard because you have to be open. You have to be vulnerable
 ## Intro
 
 1. What you need to leave this session with:
-    1. You need to learn the cloud...but that won't happen today.
+    1. You need to learn a cloud...but that won't happen today.
+        1. We'll start the plan and building the foundation. The house is up to you.
     1. You need to be a solution provider besides just a problem solver.
     1. You need to own your cloud career...but that won't be driven by your employer.
     1. Network, Network, Network this week.
@@ -92,7 +93,6 @@ Let's talk about where we've come from and where we'll go:
 
 ## How to learn in the digital age
 
-
 1. Why certifications are your route to success
     1. In the MS world, our certs have gotten better.
     1. They provide a great framework for you to learn job-specific skills.
@@ -115,5 +115,5 @@ AKA Cloud Operations
 1. Pick a cloud; Any Cloud
     1. Pick a Piece (Iaas,PaaS,Saas)
 1. Understand how business works
-    1. 
-1.	So important as much of what are jobs will become is 
+    1.
+1. So important as much of what are jobs will become is
