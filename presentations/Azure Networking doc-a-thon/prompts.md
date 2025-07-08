@@ -6,16 +6,18 @@ This guide provides practical prompts and workflows for using GitHub Copilot to 
 
 The prompts in this collection are designed to help technical writers:
 
-Create comprehensive documentation that follows Microsoft Style Guide standards
-Analyze existing content for gaps, outdated information, and compliance issues
-Generate specialized content types like best practices guides and FAQs
-Perform quality assurance through automated fact-checking and validation
+- Create comprehensive documentation that follows Microsoft Style Guide standards.
+- Analyze existing content for gaps, outdated information, and compliance issues.
+- Generate specialized content types such as best practices guides and FAQs.
+- Perform quality assurance through automated fact-checking and validation.
+
 Each section includes specific prompt examples with context about the intended workflow. These prompts emphasize adherence to Microsoft documentation standards, SEO optimization, and fact-checking against authoritative sources.
+
 ## Github Coplilot Chat
 
 ### Ask mode
 
-**Prompt:**
+**Prompts:**
 ```vscode
 How would I convert this article to use Azure CLI vs. PowerShell
 ```
@@ -25,17 +27,18 @@ How would I convert this article to use Azure CLI vs. PowerShell
 **Prompts:**
 
 ```vscode
-List all of the tools currently available in Agent mode.
-If a tool is available due to a VS Code extension, please call out the extension name
-```
-
-```vscode
 Convert PowerShell to Azure CLI and modify all references to Azure CLI
 ```
 
 ### Agent mode
 
-**Prompt:**
+**Prompts:**
+
+```vscode
+List all of the tools currently available in Agent mode.
+If a tool is available due to a VS Code extension, please call out the extension name
+```
+
 ```vscode
 Convert this article to use Azure CLI.
 Update all references to PowerShell.
@@ -67,10 +70,18 @@ Add ##Next Steps section at bottom with an article related to network security p
 
 TOC updates
 
-### Documentor options
-
-
 ## MCP Server
+
+[Install MCP Server from GitHub](https://github.com/MicrosoftDocs/mcp?tab=readme-ov-file#-installation--getting-started)
+
+
+**Prompts:**
+
+```vscode
+How can I maintain and update docs using the Microsoft Learn MCP Server.
+Include a list of general tasks that I can perform with the MCP server.
+Include a list of all tools in the MCP server.
+```
 
 ## Demo - Create a best practices document for AVNM
 
@@ -79,9 +90,9 @@ TOC updates
 ```vscode
 Based Microsoft Learn Documentation, create a best practices document for Azure Virtual Network Manager.
 
-- Check against TechCommunity.com blogs as well as other public facing microsoft docs.
-- Ensure it covers architecture, deployment, security, and management/monitoring.
-- Add to a document called avnm-best-practices.md in the current folder.
+- Check against TechCommunity.microsoft.com blogs as well as other public facing microsoft docs.
+- Ensure it covers architecture, deployment, security, reliability, and management/monitoring.
+- Add to a new document called avnm-best-practices.md in the current folder.
 Optimize the document for SEO and Generative Engine optimization. Adhere to the Microsoft Style Guide.
 - Follow examples of other best practices in Microsoft docs for examples.
 
