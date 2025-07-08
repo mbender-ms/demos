@@ -146,7 +146,7 @@ Fact check lb-FAQ.yml results against our current documentation set. Identify an
 ```vscode
 # Gap Analysis for Azure Virtual Network Manager Documentation
 
-Based on a review of customer-facing Microsoft official documentation and blogs on tech community, analyze the virtual network manager doc set for scenarios and article gaps missing in our public documentation.
+Based on a review of customer-facing Microsoft official documentation and blogs on techcommunity.microsoft.com, analyze the virtual network manager doc set for scenarios and article gaps missing in our public documentation.
 
 Create a new file including all the Article gaps, a high-level summary of what a new doc would include. Create article in current folder with name avnm-gap-analysis.md
 
