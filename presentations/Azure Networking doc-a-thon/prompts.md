@@ -88,6 +88,8 @@ Include a list of all tools in the MCP server.
 **Prompt:**
 
 ```vscode
+# Best Practices for Azure Virtual Network Manager
+
 Based Microsoft Learn Documentation, create a best practices document for Azure Virtual Network Manager.
 
 - Check against TechCommunity.microsoft.com blogs as well as other public facing microsoft docs.
@@ -110,9 +112,13 @@ Ask Copilot to list the number of articles in a service's folder, How many artic
 **Prompt:**
 
 ```vscode
+# Analyze Load Balancer Articles
+
 - How many markdown articles are in the load-balancer folder?
-- How many have ms.dates older than 07/03/2024?
+- How many have ms.dates older than 07/08/2024?
 - How many are missing # customer intent:" statements?
+- How many articles use bicep, terraform or ARM temaplates?
+- When completed, create a new document called lb-article-analysis.md in the current folder using results.
 ```
 
 ## Demo - create an FAQ article for Load Balancer
@@ -120,8 +126,10 @@ Ask Copilot to list the number of articles in a service's folder, How many artic
 **Prompt:**
 
 ```vscode
-Utilizing Microsoft Learn documentation and all public Microsoft documentation, create an FAQ for Troubleshooting Azure Load Balancer.
-Create FAQ.yml in the current folder.
+#Create an FAQ
+
+Utilizing Microsoft Learn documentation, techcommunity.microsoft.com, and all public Microsoft documentation, create an FAQ for Troubleshooting Azure Load Balancer.
+Create lb-FAQ.yml in the current folder.
 Follow microsoft style guide and best practices for FAQ documentation.
 Optimize the FAQ for Generative Engine Optimization.
 ```
@@ -129,13 +137,15 @@ Optimize the FAQ for Generative Engine Optimization.
 **Prompt2:**
 
 ```vscode
-Fact check FAQ.yml results against our current documentation set. Identify any items that don't align in the new FAQ.
+Fact check lb-FAQ.yml results against our current documentation set. Identify any items that don't align in the new FAQ.
 ```
 
 ## Demo - Gap Analysis
 
 **Prompt:**
 ```vscode
+# Gap Analysis for Azure Virtual Network Manager Documentation
+
 Based on a review of customer-facing Microsoft official documentation and blogs on tech community, analyze the virtual network manager doc set for scenarios and article gaps missing in our public documentation.
 
 Create a new file including all the Article gaps, a high-level summary of what a new doc would include. Create article in current folder with name avnm-gap-analysis.md
